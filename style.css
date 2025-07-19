@@ -1,0 +1,23 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  .navbar .nav-link {
+    font-size: 0.85rem;
+  }
+  .bg-success {
+    background-color: #00825c !important;
+  }
+  img.img-fluid {
+    border-radius: 4px;
+    object-fit: cover;
+  }
+  h1 {
+    font-size: 1.75rem;
+  }
+  @media (max-width: 992px) {
+    h1 {
+      font-size: 1.4rem;
+    }
+  }
